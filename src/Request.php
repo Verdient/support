@@ -1,7 +1,7 @@
 <?php
-namespace support;
+namespace Verdient\support;
 
-use signature\Signature;
+use Verdient\signature\Signature;
 use chorus\TimeHelper;
 
 /**
@@ -10,7 +10,7 @@ use chorus\TimeHelper;
  * -------
  * @author Verdient。
  */
-class Request extends \http\component\Request
+class Request extends \Verdient\http\component\Request
 {
 	/**
 	 * @var String $appKey

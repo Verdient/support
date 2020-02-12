@@ -1,5 +1,5 @@
 <?php
-namespace support;
+namespace Verdient\support;
 
 /**
  * notification

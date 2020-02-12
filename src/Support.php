@@ -1,5 +1,5 @@
 <?php
-namespace support;
+namespace Verdient\support;
 
 use chorus\InvalidConfigException;
 
@@ -9,7 +9,7 @@ use chorus\InvalidConfigException;
  * -------
  * @author Verdient。
  */
-abstract class Support extends \http\component\Component
+abstract class Support extends \Verdient\http\component\Component
 {
 	/**
 	 * @var String $appKey

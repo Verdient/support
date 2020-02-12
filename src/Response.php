@@ -1,5 +1,5 @@
 <?php
-namespace support;
+namespace Verdient\support;
 
 /**
  * Response
@@ -7,7 +7,7 @@ namespace support;
  * --------
  * @author Verdient。
  */
-class Response extends \http\component\Response
+class Response extends \Verdient\http\component\Response
 {
 
 }

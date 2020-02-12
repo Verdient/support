@@ -18,11 +18,11 @@
     },
     "require": {
         "php": ">=7.0.0",
-        "verdient/chorus": "^0.0.4",
-        "verdient/http": "^0.0.0",
-        "verdient/signature": "^0.0.0"
+        "verdient/chorus": "^0.0.5",
+        "verdient/http": "^0.0.1",
+        "verdient/signature": "^0.0.1"
     },
     "autoload": {
-        "psr-4": {"support\\": "src"}
+        "psr-4": {"Verdient\\support\\": "src"}
     }
 }
